@@ -18,6 +18,8 @@
 
 2. <https://github.com/arjuntheprogrammer/TSAI-END3/files/7235637/END3-Session2.xlsx>
 
+---
+
 ### Major Steps Explanation
 
 1.
@@ -26,7 +28,7 @@
 
 ### NN Diagram Screenshot
 
-![END3-Session2](https://user-images.githubusercontent.com/15984084/134894055-beb4e4e9-aa08-4632-8405-40e4e353f9d6.png)
+![END3-Session2](https://user-images.githubusercontent.com/15984084/134895604-551122ff-08a9-44ef-9e04-5f628255b634.png)
 
 ### LOSS Value Line Chart
 
