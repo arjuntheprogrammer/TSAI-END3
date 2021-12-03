@@ -87,6 +87,8 @@ Pick any of your past code and:
 - It has been shown to correlate with human judgment on sentence-level and system-level evaluation.
 - BERTScore computes precision, recall, and F1 measure, which can be useful for evaluating different language generation tasks.
 
+<img src="assets/bert.png" height=250 width="725">
+
       OUR MODEL'S BERTS SCORE = 0.828
 
 ---
