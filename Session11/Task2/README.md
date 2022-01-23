@@ -28,6 +28,14 @@ BERT (Bidirectional Encoder Representations from Transformers), released in late
 
 ![OUTPUT](assets/output.png)
 
+---
+
+## TRAINING LOGS
+
+![logs](assets/training_logs.png)
+
+---
+
 ## DIAGRAMS
 
 Special Tokens
@@ -37,6 +45,8 @@ Special Tokens
 Sentence Length & Attention Mask
 
 ![mask](assets/mask.png)
+
+---
 
 ## DATASET USED
 
