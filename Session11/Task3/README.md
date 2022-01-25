@@ -12,7 +12,8 @@ ASSIGNMENT
 
 ## OUTPUT ON 5 SAMPLES
 
-![OUTPUT](assets/output.png)
+![OUTPUT](assets/output1.png)
+![OUTPUT](assets/output2.png)
 
 ---
 
