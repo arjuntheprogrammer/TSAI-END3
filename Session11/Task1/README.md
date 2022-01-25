@@ -30,7 +30,7 @@ We can use BERT to extract high-quality language features from the SQuAD text ju
 
 ## OUTPUT ON 5 SAMPLES
 
-![OUTPUT](assets/output.png)
+![samples](assets/output_samples.png)
 
 ---
 
@@ -38,15 +38,28 @@ We can use BERT to extract high-quality language features from the SQuAD text ju
 
 ![logs](assets/training_logs.png)
 
+## TRAINING LOSS
+
+![loss](assets/training_loss.png)
+
+## EVALUATION RESULTS
+
+![results](assets/results.png)
+
 ---
 
 ## DATASET USED
 
 The Stanford Question Answering Dataset (SQuAD) is a prime example of large-scale labeled datasets for reading comprehension. Rajpurkar et al. developed SQuAD 2.0, which combines 100,000 answerable questions with 50,000 unanswerable questions about the same paragraph from a set of Wikipedia articles. The unanswerable questions were written adversarially by crowd workers to look similar to answerable ones.
 
+<https://rajpurkar.github.io/SQuAD-explorer/>
+
+---
+
 ## REFERENCES
 
-1. BERT NLP — How To Build a Question Answering Bot
-   <https://towardsdatascience.com/bert-nlp-how-to-build-a-question-answering-bot-98b1d1594d7b>
+1. SQUAD Data: <https://rajpurkar.github.io/SQuAD-explorer/>
+2. Blog Link: <https://towardsdatascience.com/bert-nlp-how-to-build-a-question-answering-bot-98b1d1594d7b>
+3. Original Colab Link: <https://drive.google.com/file/d/1Zp2_Uka8oGDYsSe5ELk-xz6wIX8OIkB7/view?usp=sharing>
 
 ---
