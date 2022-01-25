@@ -10,6 +10,28 @@ ASSIGNMENT
 
 ---
 
+## What is BART?
+
+BART is a denoising autoencoder for pretraining sequence-to-sequence models.
+It is trained by
+
+1. corrupting text with an arbitrary noising function, and
+2. learning a model to reconstruct the original text.
+
+According to the paper:
+
+- Bart uses a standard seq2seq/machine translation architecture with a bidirectional encoder (like BERT) and a left-to-right decoder (like GPT).
+- The pretraining task involves randomly shuffling the order of the original sentences and a novel in-filling scheme, where spans of text are replaced with a single mask token.
+- BART is particularly effective when fine tuned for text generation but also works well for comprehension tasks. It matches the performance of RoBERTa with comparable training resources on GLUE and SQuAD, achieves new state-of-the-art results on a range of abstractive dialogue, question answering, and summarization tasks, with gains of up to 6 ROUGE.-
+
+## What is Paraphrasing?
+
+- Paraphrasing is the act of expressing something using different words while retaining the original meaning.
+- We can do it with BART, a Sequence-to-Sequence Transformer Model.
+- The pre-trained BART model can be fine-tuned directly using the input sequence (original phrase) and the target sequence (paraphrased sentence) as a Sequence-to-Sequence model.
+
+---
+
 ## OUTPUT ON 5 SAMPLES
 
 ![OUTPUT](assets/output1.png)
