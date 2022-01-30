@@ -10,7 +10,7 @@ Link: <http://yann.lecun.com/exdb/mnist/>
 
 ## TRAINING
 
-![MNIST-Train](![image](https://user-images.githubusercontent.com/15984084/151658159-5cbf59f6-b5e4-474d-acf1-a265a15aa5c5.png)
+![MNIST-Train](https://user-images.githubusercontent.com/15984084/151658159-5cbf59f6-b5e4-474d-acf1-a265a15aa5c5.png)
 
 ---
 
