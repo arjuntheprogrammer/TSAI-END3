@@ -100,7 +100,7 @@ DistilBERT base multilingual model (cased)
 
 ## LABELS DISTRIBUTION IN TRAIN DATASET
 
-<img width="402" alt="download" src="https://user-images.githubusercontent.com/15984084/152186332-e804ce32-8774-41f1-b1a9-6831308b4353.png">
+![image](https://user-images.githubusercontent.com/15984084/152216608-5716de12-f745-49c7-b1eb-0a9e8872d9be.png)
 
 ---
 
